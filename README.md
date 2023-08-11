@@ -1,6 +1,7 @@
 # unconventional-name-generator
 # 逆天网名生成器
 
+__请确保你已正确安装python__
 
 一个非常逆天的网名生成器，你可以运行它。
 
